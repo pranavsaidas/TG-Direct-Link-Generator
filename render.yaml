@@ -13,4 +13,4 @@ services:
       - key: API_HASH
         value: d2ddcda6864b48aed924dd0a95aed671
       - key: AUTH_USERS
-        value: @pranavsaidas
+        value: 590048058
